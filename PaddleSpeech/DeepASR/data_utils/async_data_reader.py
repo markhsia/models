@@ -6,7 +6,7 @@ from __future__ import print_function
 
 import random
 import struct
-import Queue
+import queue
 import time
 import numpy as np
 from threading import Thread
